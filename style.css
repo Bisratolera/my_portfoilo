@@ -23,6 +23,11 @@ ul li {
   margin-right: 15px;
   list-style-type: none;
 }
+
+li a{
+color: antiquewhite;
+}
+
 .image {
   max-width: 100%;
 }
